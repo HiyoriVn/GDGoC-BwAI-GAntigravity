@@ -1,0 +1,5 @@
+- name: registration-data-cleaner
+- description must clearly say this skill cleans and validates attendee registration CSV files, normalizes ticket types, detects missing emails, detects duplicate emails, and creates a short data quality report
+- tell the agent to read resources/CLEANING_RULES.md first
+- tell the agent not to silently drop invalid rows
+- tell the agent to keep transformation logic out of main.py

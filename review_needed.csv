@@ -1,0 +1,7 @@
+registration_id,name,email,ticket_type,company,issue
+1004,Diana Vu,,student,Delta,missing_email
+1006,Frank Do,frank.do@example.com,speaker,Zeta,unknown_ticket_type
+1008,Bob Tran,bob.tran@example.com,vip,Beta Labs,duplicate_email
+1011,Jamie Phan,,student,Lambda,missing_email
+1013,Noah Tran,noah.tran@example.com,vip,Mu Dynamics,duplicate_email
+1014,Trinh Le,trinh.le@example.com,speaker,Nu Ventures,unknown_ticket_type

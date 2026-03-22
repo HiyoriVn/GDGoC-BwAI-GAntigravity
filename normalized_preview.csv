@@ -1,0 +1,50 @@
+registration_id,name,email,ticket_type,company
+1001,Alice Nguyen,alice.nguyen@example.com,vip,Acme
+1002,Bob Tran,bob.tran@example.com,vip,Beta Labs
+1003,Charlie Le,charlie.le@example.com,standard,Gamma
+1004,Diana Vu,,student,Delta
+1005,Erin Pham,erin.pham@example.com,standard,Epsilon
+1006,Frank Do,frank.do@example.com,speaker,Zeta
+1007,Grace Ho,grace.ho@example.com,student,Eta
+1008,Bob Tran,bob.tran@example.com,vip,Beta Labs
+1009,Henry Ng,henry.ng@example.com,standard,Theta
+1010,Ivy Vu,ivy.vu@example.com,student,Iota
+1011,Jamie Phan,,student,Lambda
+1012,Noah Tran,noah.tran@example.com,standard,Mu Dynamics
+1013,Noah Tran,noah.tran@example.com,vip,Mu Dynamics
+1014,Trinh Le,trinh.le@example.com,speaker,Nu Ventures
+1015,Khanh Bui,khanh.bui@example.com,vip,Omicron
+1016,Linh Ngo,linh.ngo@example.com,standard,Pioneer
+1017,Minh Ho,minh.ho@example.com,vip,Quanta
+1018,Quynh Le,quynh.le@example.com,student,Rivera
+1019,Bao Tran,bao.tran@example.com,student,Summit
+1020,Thu Pham,thu.pham@example.com,standard,Tera
+1021,Van Anh,van.anh@example.com,vip,Umbra
+1022,Duc Nguyen,duc.nguyen@example.com,standard,Vertex
+1023,An Vo,an.vo@example.com,vip,Willow
+1024,Ha My,ha.my@example.com,student,Xeno
+1025,Phuc Do,phuc.do@example.com,standard,Yotta
+1026,Trang Vu,trang.vu@example.com,student,Zenith
+1027,Hieu Phan,hieu.phan@example.com,standard,Atlas
+1028,Mai Truong,mai.truong@example.com,vip,Beacon
+1029,Gia Han,gia.han@example.com,vip,Cinder
+1030,Tuan Le,tuan.le@example.com,standard,Drift
+1031,Ngoc Mai,ngoc.mai@example.com,student,Evergreen
+1032,Long Bui,long.bui@example.com,vip,Foundry
+1033,Ha Tran,ha.tran@example.com,standard,Granite
+1034,Kiet Pham,kiet.pham@example.com,student,Harbor
+1035,Thao Nguyen,thao.nguyen@example.com,vip,Indigo
+1036,Nhat Do,nhat.do@example.com,standard,Juno
+1037,Bich Van,bich.van@example.com,vip,Kite
+1038,Son Dang,son.dang@example.com,standard,Lumen
+1039,Uyen Ho,uyen.ho@example.com,student,Mosaic
+1040,Phuong Le,phuong.le@example.com,standard,Northstar
+1041,Anh Thu,anh.thu@example.com,vip,Orbit
+1042,Vy Tran,vy.tran@example.com,student,Praxis
+1043,Dat Ngo,dat.ngo@example.com,standard,Quarry
+1044,Yen Pham,yen.pham@example.com,vip,Radian
+1045,Kim Anh,kim.anh@example.com,vip,Solace
+1046,Lam Vo,lam.vo@example.com,student,Tangent
+1047,Nhi Bui,nhi.bui@example.com,standard,Union
+1048,Duc Anh,duc.anh@example.com,vip,Vantage
+1049,Hoa Le,hoa.le@example.com,student,Wave
